@@ -142,24 +142,12 @@ We welcome contributions! Here's how you can help:
 - UI/UX improvements
 - Educational content and explanations
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **D3.js Community** - For the powerful visualization library
 - **React Team** - For the excellent frontend framework
 - **Tailwind CSS** - For the utility-first CSS framework
 - **Educational Resources** - Inspired by various algorithm visualization tools
-
-## 📞 Support
-
-If you have any questions or need help:
-
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/dsa-visualizer/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/dsa-visualizer/discussions)
 
 ---
 
@@ -169,6 +157,6 @@ If you have any questions or need help:
 
 Made with ❤️ for the programming community
 
-[Live Demo](https://your-demo-link.com) • [Report Bug](https://github.com/yourusername/dsa-visualizer/issues) • [Request Feature](https://github.com/yourusername/dsa-visualizer/issues)
+[Live Demo](https://your-demo-link.com)
 
 </div>
