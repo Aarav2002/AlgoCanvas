@@ -118,7 +118,7 @@ function App() {
               Learn Data Structures and Algorithms through interactive visualizations
             </p>
             <p className="text-sm">
-              Built with React, TypeScript, and D3.js
+              Built by Shubham Kumar
             </p>
           </div>
         </footer>
