@@ -157,6 +157,6 @@ We welcome contributions! Here's how you can help:
 
 Made with ❤️ for the programming community
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://algocanvas.netlify.app/)
 
 </div>
